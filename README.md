@@ -3,7 +3,7 @@
 <h1>Goal</h1>  Load csv into spark datframes and then transform and save in Redshift.
 
 
-<h1>How to run</h1> :
+<h1>How to run</h1>
 
 Rquires spark-2.0.0
 
