@@ -1,6 +1,6 @@
 <h1>This is based on csv data available on Kaggle.</h1>
 
-<h1>Goal</h1>  Load csv into spark datframes and then transform and save in Redshift.
+<h1>Goal</h1>  Load csv into spark datframes and then transform and save in Redshift. Data from Redshift can be easily plugged into Tableau or other software for createing nice charts and dashboards.
 
 
 <h1>How to run</h1>
