@@ -12,6 +12,8 @@ Rquires spark-2.0.0
 
 <h1>A couple of screenshots using AWS Quicksight</h1>
 
-1. ![Overview](https://github.com/phanisaripalli/import-and-export-by-india/blob/master/quicksight_1.png)
+![Overview](https://github.com/phanisaripalli/import-and-export-by-india/blob/master/quicksight_1.png)
 
-2. ![Dashboard](https://github.com/phanisaripalli/import-and-export-by-india/blob/master/quicksight_2.png)
+********************************************************************************************************
+
+![Dashboard](https://github.com/phanisaripalli/import-and-export-by-india/blob/master/quicksight_2.png)
