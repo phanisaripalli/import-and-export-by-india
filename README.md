@@ -1,6 +1,6 @@
 <h1>This is based on csv data available on Kaggle.</h1>
 
-![Import exports of India b/w 2014 & 2017](https://www.kaggle.com/rajanand/import-and-export-by-india)
+[Import exports of India b/w 2014 & 2017](https://www.kaggle.com/rajanand/import-and-export-by-india)
 
 <h1>Goal</h1>  Load csv into spark datframes and then transform and save in Redshift. Data from Redshift can be easily plugged into Tableau or other software for createing nice charts and dashboards.
 
